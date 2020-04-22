@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hedge Fund Activism: A Trend in Corporate Finance"
+date:   2020-04-19 23:39:47 -0400
+#image:  images/02.jpg
+tags:   [data security under COVID]
+---
+
+Hedge fund activism has emerged as a new form of corporate governance mechanism during the past decade. Institutional investors' monitoring is not a new phenomena. However, hedge fund activism distinguishes iteself in four ways: first, hedge fund managers have stronger incentive to make profits. This is from hedge fund managers' compensation schemes, who receives 20% of excess returns as performance fees on top of fixed management fees; second, hedge funds are lightly regulated since they are not widely available to the public; third, hedge funds face fewer conflicts of interest than other institutional investors; lastly, hedge funds usually have lock-up provisions. 
+
