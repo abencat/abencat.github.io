@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 
-
+Please go to [another repository](https://github.com/abencat/code) for my AI projects.
 
 
 ### Digitalization
