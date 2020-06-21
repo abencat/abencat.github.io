@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title:  ""
+title:  "Information Environment in Digital Economics"
 date:   2020-04-25 10:16:47 -0400
 #image:  images/02.jpg
 tags:   [digital economics]

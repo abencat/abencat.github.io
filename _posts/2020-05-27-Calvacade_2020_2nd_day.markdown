@@ -3,7 +3,7 @@ layout: post
 title:  "SFS Cavalcade 2020-2nd day"
 date:   2020-04-25 10:16:47 -0400
 #image:  images/02.jpg
-tags:   [digital economics]
+tags:   [conference]
 ---
 
 This is the second day of SFS Cavalcade. I am so excited to see Kairong Xiao from Columbia to give presentations. He has two papers , one of which is presented by a doctoral student in Columbia. The one presented by himself is about the effect of capital regulation. It is a very ambitious paper which I cannot imagine. Capital regulation has been the main weapon of bank regulation before the financial crisis. After the Great Depression, liuqidity standards are introduced into the Basel III. Kairong's paper is studying a very broad question: what is the effect of liquidity standard? They look at liquidity mismatch, Federal Home Loan Banks, and financial fragility. They explain this from the perspective of regulatory arbitrage. 
