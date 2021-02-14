@@ -7,7 +7,7 @@ tags:   [review]
 ---
 
 The goals are not clear. It is necessary to feature the importance of my paper. All academic papers hould achieve: 
-1. Say what the paper's point iss and convince readers it is interesting and novel.
+1. Say what the paper's point is and convince readers it is interesting and novel.
 2. Convince readers the analysis is correct and address alternative explanations.
 3. Give credit to others.
 4. Provide details of what you do.
