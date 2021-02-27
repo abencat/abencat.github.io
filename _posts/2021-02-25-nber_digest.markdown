@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep neural networks for estimation and inference"
+title:  "Latest NBER New Working Paper"
 date:   2021-02-24 15:30:47 -0400
 #image:  images/02.jpg
 tags:   [review]

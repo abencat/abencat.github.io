@@ -8,7 +8,7 @@ tags:   [review]
 
 Prefessor Dunmu Zhang from Wuhan University gave a personal book list on Probability. This list might need updating but is a very helpful benchmark to build on and select from. 
 
-![Original letters](/images/prob_text_rec.jpg)
+![Original Handwriting](/images/prob_text_rec.jpg)
 
 
 
