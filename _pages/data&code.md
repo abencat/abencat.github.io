@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Sentiment Data
-permalink: /research/
+permalink: /data/
 #image: images/01.jpg
 ---
 
