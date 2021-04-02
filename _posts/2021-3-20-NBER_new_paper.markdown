@@ -1,4 +1,12 @@
 
+---
+layout: post
+title:  "NBER New Articles"
+date:   2021-03-20 15:30:47 -0400
+#image:  image/02.jpg
+tags:   [review]
+---
+
 11.	Discount Rates, Mortality Projections, and Money's Worth Calculations for US Individual Annuities
 James M. Poterba and Adam Solomon #28557 
 
